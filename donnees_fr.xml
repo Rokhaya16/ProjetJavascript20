@@ -1,0 +1,47 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+  <appData>
+  	 <headerData>
+		 <data key="titre_del_application"> Sen Money </data>
+	 </headerData>
+
+		<menuData>
+			<data key="indicatifName">Sen money</data>
+			<data key="menuName"> Menu</data>
+			<data key="soldeName">afficherSolde</data>
+			<data key="transfertName">transfertArgent</data>
+		</menuData>
+
+		<contentData>
+		<data key ="contenu_de_l_application">
+			Saisissez votre numéro de téléphone?
+			------MENU SENMONEY------
+			Taper le numéro du service choisi
+			1: Solde de mon compte
+			2: Transfert d'argent
+			3: Paiement de facture
+			4: Options
+			1:Transfert vers un autre numéro
+			2:Autres
+			Entrez le numéro de téléphone qui doit recevoir le transfert d'argent :
+			Veuillez entrer le montant que vous souhaitez transférer(en FCFA)
+			Saisissez votre code de sécurité?
+			le solde de votre compte est de 10000
+			Voulez-vous retourner au menu?
+			L'utilisateur veut annuler le programme!
+			Veuillez choisir :
+			1:Solde de mes comptes
+			2:Cinq dernières transactions
+			3:Modification du code secret
+			4:Consultation Statut
+			Pour recevoir le solde de votre compte Sen Money par SMS, veuillez entrer votre code secret:
+			Pour recevoir vos 5 dernières transactions Sen Money par SMS, veuillez entrer votre code secret.
+			Vous allez modifier votre code secret Sen Money, veuillez entrer votre code secret actuel
+			Votre statut Sen Money ne\npermet pas de faire des opérations\nde plus de 200 000F.
+			Pour l'augmenter à 2 000 000, rendez-vous en point SM ou Kiosque SM avec votre pièce d'identité.
+		</data>
+
+		</contentData>
+		<footerData>
+		
+		</footerData>
+	</appData>
